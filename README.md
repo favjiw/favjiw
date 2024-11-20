@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Favian 😎</h1>
-- 🔭 I’m currently working on [demand Doc](coming soon 🤐)
+- 🔭 I’m currently working on [Amanin] (https://github.com/favjiw/amanin)
 
 - 🌱 I’m currently learning **React, Dicoding React Developer**
 
