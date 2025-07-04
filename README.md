@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Favian 😎</h1>
-- 🔭 I’m currently working on [Amanin] (https://github.com/favjiw/amanin)
-
 - 🌱 I’m currently learning **Mobile Development, Flutter**
 
 - 📫 How to reach me **mfavianj@gmail.com**
